@@ -1,0 +1,38 @@
+{
+    "car": [
+        {
+            "brand": "Audi",
+            "model": "Q7",
+            "color": "black",
+            "year": "2008"
+        },
+
+        {
+            "brand": "Vw",
+            "model": "Golf",
+            "color": "blue",
+            "year": "2003"
+        },
+
+        {
+            "brand": "Nissan",
+            "model": "X-Trail",
+            "color": "grey",
+            "year": "2002"
+        },
+
+        {
+            "brand": "BMW",
+            "model": "X6",
+            "color": "black",
+            "year": "2015"
+        },
+
+        {
+            "brand": "Toyota",
+            "model": "Rav4",
+            "color": "green",
+            "year": "2004"
+        }
+    ]
+}
