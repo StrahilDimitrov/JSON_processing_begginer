@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "Strahil",
+        "lastName": "Hristov",
+        "age": "25",
+        "town": "Montana"
+    },
+    {
+        "firstName": "Kalin",
+        "lastName": "Kostadinov",
+        "age": "25",
+        "town": "Vratsa"
+    },
+    {
+        "firstName": "Hristo",
+        "lastName": "Georgiev",
+        "age": "53",
+        "town": "Veliko Turnovo"
+    },
+    {
+        "firstName": "Ioana",
+        "lastName": "Boianova",
+        "age": "25",
+        "town": "Kozloduj"
+    },
+    {
+        "firstName": "Ivo",
+        "lastName": "Siromahov",
+        "age": "44",
+        "town": "Sofia"
+    },
+    {
+        "firstName": "Georgi",
+        "lastName": "Giorgiev",
+        "age": "54",
+        "town": "Burgas"
+    }
+]
